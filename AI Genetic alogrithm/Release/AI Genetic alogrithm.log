@@ -1,0 +1,9 @@
+﻿  GeneticAlgorithm.cpp
+h:\year 2\games ai\ai assignment\ai genetic alogrithm\ai genetic alogrithm\geneticalgorithm.cpp(62): warning C4018: '<': signed/unsigned mismatch
+h:\year 2\games ai\ai assignment\ai genetic alogrithm\ai genetic alogrithm\geneticalgorithm.cpp(118): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 697 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AI Genetic alogrithm.vcxproj -> H:\Year 2\Games AI\AI Assignment\AI Genetic alogrithm\Release\AI Genetic alogrithm.exe
